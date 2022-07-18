@@ -19,5 +19,9 @@
 7.Transaction #3
 ![transaction_3](Execution_Results/07_transaction_3.png)
 
-8.Revertion with wrong account number
+8.Revertion due to the wrong account number
 ![revert](Execution_Results/08_revert.png)
+
+
+9.Revertion due to insufficient balance
+![insufficient_balance](Execution_Results/09_insufficient_balance.png)
